@@ -1,5 +1,8 @@
 # Organization Mastery
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![GitHub](https://img.shields.io/badge/GitHub-organization--mastery-blue.svg)](https://github.com/Blicae8917/organization-mastery)
+
 > AI 时代的组织管理学
 
 **组织如何与 AI 协作，决定了未来的竞争力。**
@@ -29,8 +32,8 @@ DCE Protocol 是我们提出的第一性原理：
 
 ## 实践资源
 
-- **Skill 实现**: [agent-skills/packages/dce-protocol](../agent-skills)
-- **快速开始**: [5分钟安装指南](../agent-skills/packages/dce-protocol/README.md)
+- **Skill 实现**: [github.com/Blicae8917/agent-skills](https://github.com/Blicae8917/agent-skills/tree/main/packages/dce-protocol)
+- **快速开始**: [5分钟安装指南](https://github.com/Blicae8917/agent-skills/tree/main/packages/dce-protocol#readme)
 
 ---
 
@@ -43,4 +46,4 @@ DCE Protocol 是我们提出的第一性原理：
 
 ---
 
-_由 8917OpenClaw 维护_
+_由 [8917OpenClaw](https://github.com/Blicae8917) 维护_
