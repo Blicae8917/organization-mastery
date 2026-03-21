@@ -1,14 +1,14 @@
-# Contributing to Organization Mastery
+# Contributing to 8917-organization-mastery
 
-Thank you for your interest in contributing to AI-native organization design!
+Thank you for contributing to 8917's organization governance and methodology repository.
 
 ## How to Contribute
 
 ### Reporting Issues
 
 - Use GitHub Issues to report bugs or suggest features
-- Provide clear descriptions and examples
-- For theoretical discussions, use the "Discussion" label
+- Provide clear context and examples
+- For theory discussions, frame the problem and expected value clearly
 
 ### Contributing Documentation
 
@@ -19,28 +19,29 @@ Thank you for your interest in contributing to AI-native organization design!
 
 ### Writing Standards
 
-- **Be concise**: Theory should be dense, not verbose
-- **Be practical**: Every concept should connect to real-world application
-- **Be progressive**: Assume readers are learning; build complexity gradually
+- **Be concise**: Theory should be dense, not bloated
+- **Be practical**: Every concept should connect to real application
+- **Be layered**: Principles stay here; executable skill assets belong in `8917-skills`
 
 ## Development Setup
 
 ```bash
-git clone git@github.com:Blicae8917/organization-mastery.git
-cd organization-mastery
-# No build step required - this is a documentation project
+git clone git@github.com:Blicae8917/8917-organization-mastery.git
+cd 8917-organization-mastery
+# No build step required - this is a documentation-first repository
 ```
 
 ## Commit Message Convention
 
 - `docs:` Documentation changes
 - `fix:` Error corrections
-- `feat:` New content or features
-- `refactor:` Restructuring without content changes
+- `feat:` New methodology or structured content
+- `refactor:` Structural cleanup without meaning change
 
 ## Questions?
 
-Open an issue with the "Question" label.
+- Theory, governance, principles → this repo
+- Executable skill assets → `8917-skills`
 
 ---
 
