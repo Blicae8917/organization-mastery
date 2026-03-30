@@ -56,6 +56,16 @@
 
 **权限隔离铁律**：除 {{org.members.guardian_name}} 外，严禁私自修改 `USER.md`。
 
+## 门控校验 (Validation Rubric)
+
+> **Contract**: 任何声称已将经验或历史归档的任务，必须通过以下强制校验，否则视为记忆断层（Memory Breach）。
+
+**Checklist (Agent 自评或 Inspector 巡检必查)**:
+- [ ] **标签存在性**：文件开头是否包含至少一个规范 Taxonomy 标签？
+- [ ] **洞察归档**：文末是否包含“**一句话归档：...**”结构？
+- [ ] **上下文过载防御**：本次执行超过 2 分钟或上下文厚度过大时，是否已主动执行了 Journal 卸载记录？
+- [ ] **机密脱敏**：是否已经脱敏（如移除了 API Key 或具体 PII）再进入 shared 经验层？
+
 ## 经验折旧与遗忘机制
 
 动态置信度（Confidence Score）：
@@ -96,6 +106,41 @@
 - 关键决策节点
 - 里程碑式成果
 - 价值观升级
+
+**编撰规范**：
+- 请严格遵从 `templates/chronicle-entry-template.md` 的格式与文风约束，包括克制精确的史官文风、事实与意图并重、原文优先、保留署名权且不对决策进行主观评判。
+
+## L0.5 临时经验池（`.learnings/`）
+
+`.learnings/` 在 [Org_Code] 中正式定位为 **L0.5 临时经验池 / 速记层**。
+
+### 作用
+用于优先承接：
+- 用户纠正
+- 命令失败 / 工具异常 / API 失败
+- 能力缺口与 feature request
+- 更优做法与待验证改进
+
+### 边界
+- `.learnings/` 不是正式真源
+- 不替代 `MEMORY.md` / `memory/journal/` / `memory/milestones/` / `shared/knowledge/lessons/`
+- 它负责“先记下来”，正式沉淀仍需晋升
+
+### 晋升路径
+| `.learnings/` 内容类型 | 正式晋升去向 |
+|----------------------|-------------|
+| 工作流改进 | `AGENTS.md` |
+| 行为/风格/价值判断 | `SOUL.md` |
+| 工具 gotcha | `TOOLS.md` |
+| 当日关键原始事件 | `memory/journal/` |
+| 阶段性总结 | `memory/milestones/` |
+| 全军复用经验 | `shared/knowledge/lessons/` |
+| 上升为组织规则 | `shared/protocol/` |
+
+### 运行纪律
+- `.learnings/` 可积累，但不应长期堆积不晋升
+- heartbeat / reviewer / upgrader 可将其作为输入层
+- 任何把 `.learnings/` 误当正式真源的行为，视为记忆层级违规
 
 ## GEP 经验胶囊格式
 
