@@ -9,6 +9,16 @@
 
 ---
 
+## For Humans
+- Start with **README → docs/zh or docs/en → protocol/**
+- This repo answers: **What is AI-native organization management, and how do you build it as a real operating system?**
+
+## For Agents
+- Start with **CONSTITUTION → PROTOCOL → MISSION_CONTROL → INFRASTRUCTURE**
+- This repo is the **governance/theory layer**. Read it to understand values, boundaries, protocols, and execution logic before touching implementation.
+
+---
+
 ## 🌍 Bilingual / 双语
 
 - [English (for humans & agents)](#english)

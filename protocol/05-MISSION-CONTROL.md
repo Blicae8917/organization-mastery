@@ -1,7 +1,7 @@
 # 战术面板与任务全生命周期协议（MISSION_CONTROL）
 
 > **协议编号**: 07  
-> **版本**: v8.2 (Config-driven & Rubric-gated)  
+> **版本**: v8.2 (Config-driven & Rubric-gated)
 > **类型**: 核心法源
 
 ---

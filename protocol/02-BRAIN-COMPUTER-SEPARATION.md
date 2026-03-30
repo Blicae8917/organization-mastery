@@ -1,7 +1,7 @@
 # 脑机分离 V4 架构协议
 
 > **协议编号**: 04  
-> **版本**: v8.1 (Config-driven & Rubric-gated)  
+> **版本**: v8.2 (Config-driven & Rubric-gated)
 > **类型**: 核心法源
 
 本协议强制约束 [Org_Code] 集群内一切物理目录与运行态上下文。

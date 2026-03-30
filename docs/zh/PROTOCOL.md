@@ -1,6 +1,6 @@
 # [Org_Code] 执行协议总纲
 
-> **版本**: v8.0  
+> **版本**: v8.2 (Config-driven & Rubric-gated)
 > **配套**: CONSTITUTION.md / MISSION_CONTROL.md  
 
 ---

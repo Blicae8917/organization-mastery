@@ -1,7 +1,7 @@
 # 安全与红线协议
 
 > **协议编号**: 09  
-> **版本**: v8.1 (Config-driven & Rubric-gated)  
+> **版本**: v8.2 (Config-driven & Rubric-gated)
 > **类型**: 核心法源
 
 ---

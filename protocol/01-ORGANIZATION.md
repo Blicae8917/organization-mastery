@@ -1,7 +1,7 @@
 # 组织架构协议
 
 > **协议编号**: 03  
-> **版本**: v8.1 (Config-driven & Rubric-gated)  
+> **版本**: v8.2 (Config-driven & Rubric-gated)
 > **类型**: 核心原则与架构定义
 
 本文件定义 [Org_Code] 数字集团军的组织架构原则。具体的编制名单、角色职责与权限矩阵已抽离，请通过 `shared/config/organization.yaml` 进行动态配置。

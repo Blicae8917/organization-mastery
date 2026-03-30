@@ -1,7 +1,7 @@
 # Token 节约与自动化协议
 
 > **协议编号**: 08  
-> **版本**: v8.0  
+> **版本**: v8.2 (Config-driven & Rubric-gated)
 
 ---
 

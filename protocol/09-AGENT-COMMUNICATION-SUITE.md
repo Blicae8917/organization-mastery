@@ -1,7 +1,7 @@
 # Agent 通信套件协议（AGENT-COMMUNICATION-SUITE）
 
 > **协议编号**: 12  
-> **版本**: v8.1（合并 16/17 内容）  
+> **版本**: v8.2 (Config-driven & Rubric-gated)
 003e **生效日期**: 2026-03-23
 
 ---

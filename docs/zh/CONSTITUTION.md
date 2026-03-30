@@ -1,6 +1,6 @@
 # [Org_Code] 数字集团军宪章
 
-> **版本**: v8.0  
+> **版本**: v8.2 (Config-driven & Rubric-gated)
 > **日期**: 2026-03-21  
 > **状态**: 正式发布  
 
@@ -79,5 +79,5 @@ cp config/organization.template.yaml config/organization.yaml
 ---
 
 _本宪章由 {{org.members.guardian_name}} 与创建者共同起草_  
-_版本：v8.1 (Config & Rubric Driven)_  
+_版本：v8.2 (Config-driven & Rubric-gated)_
 _持续进化中_

@@ -11,6 +11,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Repository upgraded to `8917-organization-mastery`
 - README aligned to dual-repository structure
 - Migration backup for pre-rename README
+- README opening now includes explicit **For Humans / For Agents** entry sections
+- Added bilingual changelog support via `CHANGELOG_CN.md`
 
 ## [0.1.0] - 2026-03-14
 

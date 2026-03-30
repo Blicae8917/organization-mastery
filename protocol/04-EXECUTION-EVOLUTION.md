@@ -1,7 +1,7 @@
 # 执行与进化协议
 
 > **协议编号**: 06  
-> **版本**: v8.1 (Config-driven & Rubric-gated)  
+> **版本**: v8.2 (Config-driven & Rubric-gated)
 > **类型**: 核心法源
 
 ---
